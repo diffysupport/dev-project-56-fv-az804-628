@@ -1,0 +1,32 @@
+basic:
+    name: 'Balistreri, Auer and Jerde'
+    environments:
+        production: 'https://ward.com/in-delectus-aliquam-natus-esse-quis-non.html'
+        staging: ''
+        development: ''
+    breakpoints:
+        - 640
+        - 1024
+        - 1200
+    pages:
+        - /
+    monitoring:
+        days: {  }
+        type: ''
+advanced:
+    mask: ''
+    remove: ''
+    isolate: ''
+    delay: ''
+    scroll: ''
+    headers: ''
+    cookies: ''
+    custom_js: ''
+    custom_css: ''
+    mock_content: ''
+    performance:
+        workers_production: 30
+        workers_nonproduction: 10
+        workers_production_delay: 0
+        workers_nonproduction_delay: 0
+    stabilize: true
