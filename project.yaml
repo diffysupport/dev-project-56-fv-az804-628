@@ -1,7 +1,7 @@
 basic:
-    name: 'Balistreri, Auer and Jerde'
+    name: Osinski-Dare
     environments:
-        production: 'https://ward.com/in-delectus-aliquam-natus-esse-quis-non.html'
+        production: 'https://www.borer.net/rerum-in-neque-magni-ipsum-ea'
         staging: ''
         development: ''
     breakpoints:
